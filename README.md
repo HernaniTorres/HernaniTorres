@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Tomando café e criando bugs desde 2022<br>📚 Graduando em Análise e Desenvolvimento de Sistemas<br>🎯 Formar uma carreira sólida, dedicando o meu tempo para contribuir com as experiências do usuário.<br>🎲 Curiosidade: Faço musculação e vivo o lifestyle "fitness".</p>
+<p align="left">🍃 Tomando café e criando bugs desde 2022<br>📚 Graduando em Análise e Desenvolvimento de Sistemas<br>🎯 Formar uma carreira sólida, dedicando o meu tempo para contribuir com as experiências do usuário.<br>🎲 Curiosidade: Faço musculação e vivo o lifestyle "fitness".</p>
 
 ###
 
